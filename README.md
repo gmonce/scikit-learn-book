@@ -1,3 +1,9 @@
+Learning scikit-learn: Machine Learning in Python. 
+==================================================
+
+Ipython sources for each chapter of the book
+--------------------------------------------
+
 This repository holds all the ipython source and data for the "Learning scikit-learn: machine learning in Python" book, by Raúl Garreta and Guillermo Moncecchi (http://www.packtpub.com/learning-scikit-learn-machine-in-python/book)
 
 
